@@ -1,0 +1,4 @@
+Name: Arune
+Age: 23
+Favorite color: red
+git init
