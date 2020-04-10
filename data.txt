@@ -1,4 +1,4 @@
 Name: Arune
 Age: 23
-Favorite color: red
+Favorite color: red and pink
 git init
